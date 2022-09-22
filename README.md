@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Pedro Baggio](https://github.com/Jignifs)
+[Pedro Baggio](https://github.com/Jignifs) \
 [Mark Chen](https://github.com/markizenlee)
 
 ## Stakeholders
