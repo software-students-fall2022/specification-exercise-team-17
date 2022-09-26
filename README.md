@@ -11,7 +11,27 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+Name of StakeHolder: **Haley Nowlin**
+
+<br />
+
+**General Frustuation:** 
+
+Difficulty of finding bathrooms in NYC
+
+<br />
+
+Goals:
+* Desires an app that easily find accessible bathrooms in NYC
+* Filter which bathrooms are public, customer-only, or employee-only
+* Public forum (for discussing accessibility and quality of restrooms)
+* Rate bathrooms in terms of cleanliness or other criteria (star system)
+* Present feedback to maintainers of bathroom
+* Report out-of-use / closed bathrooms
+
+
+
 
 ## Product Vision Statement
 
