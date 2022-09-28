@@ -35,7 +35,7 @@ Goals:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To provide access to NYC’s restrooms in one click.
 
 ## User Requirements
 
