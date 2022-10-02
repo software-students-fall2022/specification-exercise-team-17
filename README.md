@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 
-Name of StakeHolder: **Haley Nowlin**
+Name of StakeHolder: **Haley Nowlin** (Science of Happiness TA)
 
 <br />
 
