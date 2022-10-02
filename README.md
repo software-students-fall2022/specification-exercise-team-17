@@ -16,13 +16,16 @@ Name of StakeHolder: **Haley Nowlin**
 
 <br />
 
-**General Frustuation:** 
+**General Frustuations:** 
 
-Difficulty of finding bathrooms in NYC
+* Sometimes it is difficult to find bathrooms in the moment (when I really need to go)
+* Bathrooms are all dirty, I want to use clean bathrooms
+* I want to be able to find bathrooms that are accessible to the public (not employee / customer only)
+* It's annoying when a bathroom is passcode locked
 
 <br />
 
-Goals:
+**Goals:**
 * Desires an app that easily find accessible bathrooms in NYC
 * Filter which bathrooms are public, customer-only, or employee-only
 * Public forum (for discussing accessibility and quality of restrooms)
