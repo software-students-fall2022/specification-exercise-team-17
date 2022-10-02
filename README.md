@@ -42,7 +42,25 @@ To provide access to NYC’s restrooms in one click.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As an NYC resident, I want a map of NYC public restrooms so that I can find the nearest restroom
+   
+2. As a NYC resident, I want a bathroom search bar so that I can search for bathrooms in any NYC location
+   
+3. As an NYC resident, I want find highly-rated / clean bathrooms so that I can avoid dirty ones
+
+4. As an NYC resident, I want to know if a bathroom is employee-only so that I can avoid it when searching for bathrooms
+
+5. As an NYC resident, I want to sign up so that I can save my favorite bathrooms
+
+6. As a NYC resident, I want to share/receive bathroom passwords so that I can bypass locked bathrooms
+
+7. As a NYC resident, I want access to directions so that I can quickly find my way to NYC restrooms
+
+8. As a business owner, I want to display my business’ restroom policies so that people who use it are aware of the rules
+
+9.  As a business owner, I want to know if a bathroom is broken so that I can maintain it properly
+
+10. As a handicapped NYC resident, I want to locate restrooms with handicap accessibility
 
 ## Activity Diagrams
 
