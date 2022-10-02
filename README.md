@@ -65,3 +65,10 @@ To provide access to NYC’s restrooms in one click.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+## Link to Wireframes
+[Wireframe](https://www.figma.com/file/H7jPenRSzfdSPcZarsbC0i/App-Wireframe?node-id=108%3A1101)
+
+## Link to Clickable Prototype
+
+[Prototype](https://www.figma.com/proto/H7jPenRSzfdSPcZarsbC0i/App-Wireframe?node-id=108%3A1101&scaling=scale-down&page-id=108%3A1052&starting-point-node-id=108%3A1101&show-proto-sidebar=1)
