@@ -66,7 +66,7 @@ UML 1 User Story: As a NYC resident, I want a map of public restrooms in my city
 
 <br />
 
-![UML2](https://user-images.githubusercontent.com/106684865/193495189-7b4294ae-db86-4313-ba81-cf9bfb914c52.jpeg)
+![UML2](https://user-images.githubusercontent.com/106684865/193594244-33ed0013-80d5-470b-8ae3-7b7b1b662b41.png)
 
 <br />
 
