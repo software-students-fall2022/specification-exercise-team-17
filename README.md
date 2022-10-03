@@ -7,7 +7,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Pedro Baggio](https://github.com/Jignifs) \
 [Mark Chen](https://github.com/markizenlee) \
-[Brian Lin](https://github.com/blin007)
+[Brian Lin](https://github.com/blin007) \
+[Paula Seraphim](https://github.com/pseraphim)
 
 ## Stakeholders
 
@@ -42,29 +43,32 @@ To provide access to NYC’s restrooms in one click.
 
 ## User Requirements
 
-1. As an NYC resident, I want a map of NYC public restrooms so that I can find the nearest restroom
-   
-2. As a NYC resident, I want a bathroom search bar so that I can search for bathrooms in any NYC location
-   
-3. As an NYC resident, I want find highly-rated / clean bathrooms so that I can avoid dirty ones
-
-4. As an NYC resident, I want to know if a bathroom is employee-only so that I can avoid it when searching for bathrooms
-
-5. As an NYC resident, I want to sign up so that I can save my favorite bathrooms
-
-6. As a NYC resident, I want to share/receive bathroom passwords so that I can bypass locked bathrooms
-
-7. As a NYC resident, I want access to directions so that I can quickly find my way to NYC restrooms
-
-8. As a business owner, I want to display my business’ restroom policies so that people who use it are aware of the rules
-
-9.  As a business owner, I want to know if a bathroom is broken so that I can maintain it properly
-
-10. As a handicapped NYC resident, I want to locate restrooms with handicap accessibility
+1. As a NYC resident, I want a map of public restrooms in my city so that I can find the ones nearest to me.
+2. As a NYC resident, I want to be able to search for restrooms with some address or zip code so I can find one in any NYC location regardless of where I am.
+3. As a NYC resident, I want to be able to sign up so that I can save nearby bathrooms in my favorite neighborhoods and locations. 
+4. As a NYC resident or visitor, I want to find highly-rated / well maintained restrooms so that I can avoid unhygenic or neglected ones.
+5. As a NYC resident or visitor, I want to know if a bathroom is employee-only, public, or if its use requires some form of purchase so that I can find one most convenient to my needs.
+6. As a NYC resident or visitor, I want to be able to comment on the accessibility (i.e. passcodes, facility, location) or condition of certain restrooms I frequent so that others who are in need may be aware and benefit from my experience. 
+7. As a handicapped NYC resident or visitor, I want to locate restrooms that are accessible to me.
+8. As a NYC resident or visitor, I want access to directions to nearby restrooms so that I can quickly navigate to the most appropriate one. 
+9. As a business owner or building manager, I want to display my restrooms’ policies so that people who use it are aware of the rules and conditions.
+10. As a business owner or building manager, I want to know if a bathroom is broken or in poor condition as soon as possible so that I can maintain it properly and prevent exposing those who use it to potential health or safety hazards. 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML1](https://user-images.githubusercontent.com/106684865/193495059-7e5af812-2c24-434a-9c9a-baed429f6330.jpeg)
+
+<br />
+
+UML 1 User Story: As a NYC resident, I want a map of public restrooms in my city so that I can find the ones nearest to me.
+
+<br />
+
+![UML2](https://user-images.githubusercontent.com/106684865/193495189-7b4294ae-db86-4313-ba81-cf9bfb914c52.jpeg)
+
+<br />
+
+UML 2 User Story: As a business owner or building manager, I want to display my restrooms’ policies so that people who use it are aware of the rules and conditions.
 
 ## Link to Wireframes
 [Wireframe](https://www.figma.com/file/H7jPenRSzfdSPcZarsbC0i/App-Wireframe?node-id=108%3A1101)
