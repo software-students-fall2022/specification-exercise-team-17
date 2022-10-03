@@ -13,7 +13,9 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 
-Name of StakeHolder: **Haley Nowlin** (Science of Happiness TA)
+Name of StakeHolder: **Haley Nowlin** 
+
+Haley Nowlin is a teaching assistant for the course Science of Happiness at NYU. Over the past year, she has noticed how difficult it can be to find bathrooms in moments of urgency, particularly clean ones and accessible to the public. 
 
 <br />
 
